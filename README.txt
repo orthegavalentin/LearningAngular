@@ -1,1 +1,0 @@
-learning angular from scratch
